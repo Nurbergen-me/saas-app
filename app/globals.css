@@ -224,3 +224,11 @@ body {
     scrollbar-width: none;
   }
 }
+
+.cl-userButtonPopoverFooter, .cl-footer {
+  display: none;
+}
+
+.cl-cardBox {
+  margin-top: 74px;
+}
